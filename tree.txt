@@ -1,0 +1,17 @@
+.
+├── README.md
+├── app
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.module.css
+│   └── page.tsx
+├── next-env.d.ts
+├── next.config.mjs
+├── package.json
+├── src
+├── tree.md
+├── tree.txt
+└── tsconfig.json
+
+2 directories, 12 files
